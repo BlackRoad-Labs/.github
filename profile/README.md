@@ -1,69 +1,44 @@
 <div align="center">
-
-# BlackRoad Labs
-
-**AI research, data science, and machine learning experiments.**
-
-[![Repos](https://img.shields.io/badge/repos-20-black?style=flat-square)](https://github.com/orgs/BlackRoad-Labs/repositories)
-[![Research](https://img.shields.io/badge/focus-ML%20%2B%20Data%20Science-FF1D6C?style=flat-square)](https://blackroad.ai)
-
+  <h1>🛣️ BlackRoad OS</h1>
+  <p><strong>Your AI. Your Hardware. Your Rules.</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Agents-30%2C000-FF1D6C?style=for-the-badge&logo=robot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repos-1%2C825%2B-9C27B0?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Orgs-17-2979FF?style=for-the-badge"/>
+  </p>
 </div>
 
----
+## Overview
 
-## 🔬 What We Build
+BlackRoad OS is the infrastructure backbone for AI-first companies — powering 30,000+ concurrent AI agents across edge, cloud, and on-premise hardware.
 
-BlackRoad Labs is the research and experimentation arm — running ML experiments, data pipelines, and building the science behind BlackRoad AI's models.
+| Platform | Scale | Status |
+|----------|-------|--------|
+| AI Agents | 30,000 | ✅ Active |
+| Cloudflare Workers | 75+ | ✅ Active |
+| Raspberry Pi Fleet | 4 nodes | ✅ Active |
+| GitHub Actions | 50+ workflows | ✅ Active |
 
----
+## Core Systems
 
-## 📦 Repositories
+- **Tokenless Gateway** — All AI provider secrets live only here
+- **PS-SHA∞ Memory** — Hash-chained persistent AI memory  
+- **CECE Identity** — Portable AI identity across any provider
+- **30K Agent Mesh** — WebSocket + MQTT orchestration
 
-### Data Orchestration
-| Repo | Upstream | Purpose |
-|------|----------|---------|
-| [`blackroad-airflow`](https://github.com/BlackRoad-Labs/blackroad-airflow) | apache/airflow | Workflow orchestration |
-| [`blackroad-dagster`](https://github.com/BlackRoad-Labs/blackroad-dagster) | dagster-io/dagster | Data asset orchestration |
-| [`blackroad-prefect`](https://github.com/BlackRoad-Labs/blackroad-prefect) | PrefectHQ/prefect | Python-native pipelines |
-| [`blackroad-kedro`](https://github.com/BlackRoad-Labs/blackroad-kedro) | kedro-org/kedro | Production ML pipelines |
+## Organizations
 
-### Data Processing
-| Repo | Upstream | Purpose |
-|------|----------|---------|
-| [`blackroad-spark`](https://github.com/BlackRoad-Labs/blackroad-spark) | apache/spark | Large-scale data processing |
-| [`blackroad-dask`](https://github.com/BlackRoad-Labs/blackroad-dask) | dask/dask | Parallel Python computing |
+| Org | Purpose |
+|-----|---------|
+| [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc) | Core platform & gateway |
+| [BlackRoad-OS](https://github.com/BlackRoad-OS) | OS, web, docs, agents |
+| [BlackRoad-AI](https://github.com/BlackRoad-AI) | ML models & inference |
+| [BlackRoad-Cloud](https://github.com/BlackRoad-Cloud) | Infrastructure & K8s |
+| [BlackRoad-Security](https://github.com/BlackRoad-Security) | Security & compliance |
 
-### ML Ops & Experiment Tracking
-| Repo | Upstream | Purpose |
-|------|----------|---------|
-| [`blackroad-mlflow`](https://github.com/BlackRoad-Labs/blackroad-mlflow) | mlflow/mlflow | ML experiment tracking |
-| [`blackroad-dvc`](https://github.com/BlackRoad-Labs/blackroad-dvc) | iterative/dvc | Data version control |
-| [`blackroad-feast`](https://github.com/BlackRoad-Labs/blackroad-feast) | feast-dev/feast | Feature store |
-| [`blackroad-evidently`](https://github.com/BlackRoad-Labs/blackroad-evidently) | evidentlyai/evidently | ML monitoring |
-| [`blackroad-optuna`](https://github.com/BlackRoad-Labs/blackroad-optuna) | optuna/optuna | Hyperparameter optimization |
+## Brand
 
-### Data Quality
-| Repo | Upstream | Purpose |
-|------|----------|---------|
-| [`blackroad-great_expectations`](https://github.com/BlackRoad-Labs/blackroad-great_expectations) | great-expectations/great_expectations | Data quality testing |
-| [`blackroad-label-studio`](https://github.com/BlackRoad-Labs/blackroad-label-studio) | heartexlabs/label-studio | Data labeling |
-
-### Visualization & Notebooks
-| Repo | Upstream | Purpose |
-|------|----------|---------|
-| [`blackroad-jupyter`](https://github.com/BlackRoad-Labs/blackroad-jupyter) | jupyter/notebook | Interactive notebooks |
-| [`blackroad-superset`](https://github.com/BlackRoad-Labs/blackroad-superset) | apache/superset | Data visualization |
-| [`blackroad-streamlit`](https://github.com/BlackRoad-Labs/blackroad-streamlit) | streamlit/streamlit | ML app framework |
-| [`blackroad-gradio`](https://github.com/BlackRoad-Labs/blackroad-gradio) | gradio-app/gradio | ML demo UIs |
-| [`blackroad-panel`](https://github.com/BlackRoad-Labs/blackroad-panel) | holoviz/panel | Dashboard framework |
-
-### Research
-| Repo | Purpose |
-|------|---------|
-| [`research`](https://github.com/BlackRoad-Labs/research) | Research papers + findings |
-| [`experiments`](https://github.com/BlackRoad-Labs/experiments) | Experimental notebooks |
+Primary: `#FF1D6C` · Gradient: `#F5A623 → #FF1D6C → #9C27B0 → #2979FF`
 
 ---
-
-> Part of [BlackRoad OS](https://github.com/BlackRoad-OS-Inc) — 17 orgs, 1,825+ repos.
-> © BlackRoad OS, Inc. All rights reserved.
+*© BlackRoad OS, Inc. All rights reserved. Proprietary — not open source.*

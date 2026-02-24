@@ -1,28 +1,38 @@
 <div align="center">
-  <h1>🔬 BlackRoad Labs</h1>
-  <p><strong>Research. Quantum. Simulation theory. The frontier.</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Research-Simulation%20Theory-FF1D6C?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Quantum-Math%20%26%20Logic-9C27B0?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/ML-Experiments-2979FF?style=for-the-badge"/>
-  </p>
+
+# 🔬 BlackRoad Labs
+
+### Research at the Edge
+
+Data science notebooks, MLOps, visualization, and research infrastructure for the next breakthrough.
+
+[![Platform](https://img.shields.io/badge/Platform-blackroad.io-FF1D6C?style=for-the-badge)](https://blackroad.io)
+[![Agents](https://img.shields.io/badge/AI_Agents-30%2C000-9C27B0?style=for-the-badge)](https://agents.blackroad.io)
+[![Cost](https://img.shields.io/badge/AI_Cost-%240-F5A623?style=for-the-badge)](https://blackroad.io)
+
 </div>
 
-## What Lives Here
+---
 
-Research, experiments, and exploratory projects — quantum math, simulation theory, ML research.
+## 🎯 Focus Areas
 
-## Active Research
+`Data Science` • `MLOps` • `Visualization` • `Research`
 
-| Project | Description |
-|---------|-------------|
-| `simulation-theory` | SHA-256 as evidence of computational reality (academic paper) |
-| `quantum-math-lab` | Quantum algorithms: Bell pairs, QFT, variational circuits |
-| `lucidia-math` | Trinary logic (1/0/-1) for epistemic reasoning |
+## 🔗 Links
 
-## Key Paper
-
-**"Simulation Theory: A Computational Approach"** — Alexa Louise Amundson (2026)
+| | |
+|---|---|
+| 🌐 **Website** | [blackroad-labs.github.io](https://blackroad-labs.github.io) |
+| 📖 **Docs** | [docs.blackroad.io](https://docs.blackroad.io) |
+| 💬 **Status** | [status.blackroad.io](https://status.blackroad.io) |
+| 🤖 **Agents** | [agents.blackroad.io](https://agents.blackroad.io) |
 
 ---
+
+<div align="center">
+
+**Part of [BlackRoad OS](https://blackroad.io)** — 30,000 AI Agents • 17 Organizations • 1,800+ Repos • $0 AI Cost
+
 *© BlackRoad OS, Inc. All rights reserved.*
+
+</div>

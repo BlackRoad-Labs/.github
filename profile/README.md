@@ -29,6 +29,14 @@ Data science notebooks, MLOps, visualization, and research infrastructure for th
 
 ---
 
+## 🚦 Production Readiness
+
+See our [Production Readiness Tracker](../PRODUCTION_READINESS.md) for the status of all BlackRoad products and the path to production deployment.
+
+See our [Secrets Management Guide](../SECRETS_MANAGEMENT.md) for how we securely manage API keys and credentials (Stripe, Google Drive, Cloudflare, and more).
+
+---
+
 <div align="center">
 
 **Part of [BlackRoad OS](https://blackroad.io)** — 30,000 AI Agents • 17 Organizations • 1,800+ Repos • $0 AI Cost

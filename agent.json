@@ -6,5 +6,27 @@
   "runners": "blackroad-fleet",
   "cost": "$0",
   "gateway": "http://octavia.local:8787",
-  "updated": "2026-02-23T22:49:06Z"
+  "scaffold": {
+    "steps": 10,
+    "layers": [
+      "initial-reviewer",
+      "task-to-organization",
+      "task-to-team",
+      "task-to-project",
+      "task-to-agent",
+      "task-to-repository",
+      "task-to-device",
+      "task-to-drive",
+      "task-to-cloudflare",
+      "task-to-website-editor"
+    ]
+  },
+  "routing": {
+    "targets": ["salesforce", "huggingface", "ollama", "digitalocean", "railway", "cloudflare", "google-drive"],
+    "proxy": "http://raspberrypi.local:4000"
+  },
+  "cli_version": "v3",
+  "cli_layers": [3, 4, 5, 6, 7, 8],
+  "organizations": 15,
+  "updated": "2026-02-27T19:19:00Z"
 }

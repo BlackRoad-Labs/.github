@@ -1,36 +1,25 @@
-<div align="center">
-
 # BlackRoad Labs
 
-**Research and experimentation — data pipelines, ML experiments, notebooks.**
-
-[![Website](https://img.shields.io/badge/blackroad--labs.github.io-000?style=flat-square&logo=github)](https://blackroad-labs.github.io)
-
-</div>
+**A division of [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) — Proprietary Software**
 
 ---
 
-## Repositories
+## About
 
-| Repository | Description |
-|---|---|
-| [research](https://github.com/BlackRoad-Labs/research) | Research papers and technical documentation |
-| [experiments](https://github.com/BlackRoad-Labs/experiments) | Experimental features and proof-of-concepts |
+BlackRoad Labs is the research and experimentation division of BlackRoad OS. BlackRoad Labs is where new ideas are tested before they ship — ML pipelines, feature stores, A/B testing frameworks, experiment tracking, and data pipelines. Research that becomes product.
 
-<details>
-<summary>Archived</summary>
+All repositories in this organization are proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency. Commercial use, forking, and redistribution are prohibited.
 
-| Repository | Description |
-|---|---|
-| [blackroad-notebook-server](https://github.com/BlackRoad-Labs/blackroad-notebook-server) | Jupyter notebook server with AI kernels |
-| [blackroad-feature-store](https://github.com/BlackRoad-Labs/blackroad-feature-store) | ML feature store with versioning and serving |
-| [blackroad-ab-testing-lab](https://github.com/BlackRoad-Labs/blackroad-ab-testing-lab) | A/B testing framework for ML and product experiments |
-| [blackroad-data-pipeline](https://github.com/BlackRoad-Labs/blackroad-data-pipeline) | ETL data pipeline framework |
-| [blackroad-experiment-tracker](https://github.com/BlackRoad-Labs/blackroad-experiment-tracker) | ML experiment tracking and comparison |
-| [blackroad-ml-pipeline](https://github.com/BlackRoad-Labs/blackroad-ml-pipeline) | Machine learning pipeline orchestration |
+## Parent Organization
 
-</details>
+This division operates under [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc), the corporate root of the BlackRoad ecosystem. See the parent org for the full technology stack, product catalog, and organizational structure.
+
+## License
+
+Proprietary — BlackRoad OS, Inc. See individual repositories for license terms.
 
 ---
 
-<sub>BlackRoad OS, Inc. — [blackroad.io](https://blackroad.io)</sub>
+**BlackRoad OS — Pave Tomorrow.**
+
+*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
